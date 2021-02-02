@@ -1,4 +1,4 @@
-# ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 4: What's Cooking?
+# What's Cooking?
 
 This study examines a dataset from [yummly](https://www.kaggle.com/c/whats-cooking) that contains almost 40,000 ingredient lists from collected recipes and the region from the cuisine the recipe is from.  The task was to determine if advanced classification methods and NLP techniques could successfully predict the region of a cuisine given its ingredient list.  
 
