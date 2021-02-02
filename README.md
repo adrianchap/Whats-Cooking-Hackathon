@@ -1,6 +1,6 @@
 # What's Cooking?
 
-This study examines a dataset from [yummly](https://www.kaggle.com/c/whats-cooking) that contains almost 40,000 ingredient lists from collected recipes and the region from the cuisine the recipe is from.  The task was to determine if advanced classification methods and NLP techniques could successfully predict the region of a cuisine given its ingredient list.  
+This study examines a dataset from [yummly](https://www.kaggle.com/c/whats-cooking) that contains almost 40,000 ingredient lists from collected recipes and the region from the cuisine the recipe is from.  The task was to determine if advanced classification methods and NLP techniques could successfully predict the region of a cuisine given its ingredient list.  This analysis was performed in its entirety as a part of a 6 hour hackathon held by General Assembly's Data Science Immersive program in the fall of 2020. 
 
 # Data Cleaning
 
